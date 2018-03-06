@@ -30,6 +30,6 @@ public class StrManTest{
             StrMan manipulator4 = new StrMan();
                 String word2 = manipulator4.concatSubstring("Hello", 1, 2, "world");
                 System.out.println(word2); // eworld
-        
+       
         }
 }
